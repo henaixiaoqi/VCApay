@@ -1,0 +1,4 @@
+<br/>Trying to ssl://smtp.qq.com:465
+<br/><br/>Connected to relay host ssl://smtp.qq.com
+<br/><br/>Error: Remote host returned "535 Error: 请使用授权码登录。详情请看: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256"
+<br/><br/>Error: Cannot send email to [ 870040075@qq.com ] (Step 2)<br/><br/>Error: Error occurred while sending HELO command.<br/><br/>
